@@ -1,0 +1,16 @@
+--2025-07-08 21:40:12--  https://get.hacs.xyz/
+Resolving get.hacs.xyz (get.hacs.xyz)... 2606:4700:20::681a:770, 2606:4700:20::ac43:4465, 2606:4700:20::681a:670, ...
+Connecting to get.hacs.xyz (get.hacs.xyz)|2606:4700:20::681a:770|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://raw.githubusercontent.com/hacs/get/main/get [following]
+--2025-07-08 21:40:12--  https://raw.githubusercontent.com/hacs/get/main/get
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 2606:50c0:8001::154, 2606:50c0:8002::154, 2606:50c0:8003::154, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2606:50c0:8001::154|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4990 (4,9K) [text/plain]
+Saving to: ‘STDOUT’
+
+-                                                             0%[                                                                                                                                            ]       0  --.-KB/s               -                                                           100%[===========================================================================================================================================>]   4,87K  --.-KB/s    in 0s      
+
+2025-07-08 21:40:12 (31,8 MB/s) - written to stdout [4990/4990]
+

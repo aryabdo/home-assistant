@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "config:base",
+    "group:allNonMajor",
+    ":prHourlyLimit4"
+  ],
+  "rangeStrategy": "bump",
+  "lockFileMaintenance": {
+    "enabled": true
+  }
+}
